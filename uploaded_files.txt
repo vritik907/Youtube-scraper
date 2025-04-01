@@ -1,0 +1,2 @@
+C:\Users\ritik\Desktop\geeks\web scrapping\Youtube-scraper\chromedriver.exe
+C:\Users\ritik\Desktop\geeks\web scrapping\Youtube-scraper\data.csv
